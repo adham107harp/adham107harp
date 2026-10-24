@@ -20,7 +20,7 @@ AI & Data Science student at **Badya University** (expected 2028), focused on **
 ## Highlights
 
 - 🏆 **ICPC ECPC Qualifications 2025**, Day 2: 88th place
-- 📄 Published research at an ICT conference
+- 📄 Co-author, "A Modular Dual-Pipeline Anomaly Detection Architecture for IoT Security" (IoT Sentinel), ITC-Egypt 2026
 - ☕ HackerRank Java (Basic) certified
 - 🥋 ITI Java DevBelt: Yellow Belt (Mastering OOP using Java, 45 hours)
 - 🌐 Huawei ICT Academy: Computer Networks V1.0 (course completion)
