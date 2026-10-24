@@ -33,3 +33,6 @@ Improving my backend and system design skills, and building projects I can deplo
 ## Find me
 
 [LinkedIn](https://www.linkedin.com/in/adham-harp-43bb6232b)
+[Kaggle](https://www.kaggle.com/adhamharp)
+
+[Certificates](https://drive.google.com/drive/folders/1aJtpq_AU3GCCMX9621kTkxoQukBJ0SI-?usp=sharing)
