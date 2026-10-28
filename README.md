@@ -14,7 +14,7 @@ AI & Data Science student at **Badya University** (expected 2028), focused on **
 
 ## Featured projects
 
-- **[SmartHabbit](https://github.com/adham107harp/smartHabbit---UNI)**: a gamified habit tracker with XP, streaks, badges, a reward shop, friends and chat. Node.js + Express + TypeScript + PostgreSQL, JWT auth, Docker, and a jest integration test suite.
+- **[SmartHabbit](https://github.com/adham107harp/SmartHabbit)**: a gamified habit tracker with XP, streaks, badges, a reward shop, friends and chat. Node.js + Express + TypeScript + PostgreSQL, JWT auth, Docker, and a jest integration test suite.
 - **[BU-LabTrack](https://github.com/adham107harp/BU-LabTrack)** ([live demo](https://adham107harp.github.io/BU-LabTrack/)): a lab management system for Badya University (reservations, equipment sharing, maintenance requests). I worked mostly on the backend side with a small part in the frontend; this repo holds the React frontend.
 
 ## Highlights
