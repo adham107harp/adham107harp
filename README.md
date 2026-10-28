@@ -19,12 +19,13 @@ AI & Data Science student at **Badya University** (expected 2028), focused on **
 
 ## Highlights
 
-- 🏆 **ICPC ECPC Qualifications 2025**, Day 2: 88th place
+- 🏆 **ICPC ECPC Qualifications**, Day 2: 88th place (2025) and 177th place (2026), representing Badya University
 - 📄 Co-author, "A Modular Dual-Pipeline Anomaly Detection Architecture for IoT Security" (IoT Sentinel), ITC-Egypt 2026
 - ☕ HackerRank Java (Basic) certified
 - 🥋 ITI Java DevBelt: Yellow Belt (Mastering OOP using Java, 45 hours)
+- 💻 C Programming From Basics to Mastery (ITI / Mahara-Tech)
 - 🌐 Huawei ICT Academy: Computer Networks V1.0 (course completion)
-- Codeforces: [a.mohammed22](https://codeforces.com/profile/a.mohammed22)
+- 📈 Codeforces: [a.mohammed22](https://codeforces.com/profile/a.mohammed22)
 
 ## Currently
 
@@ -32,7 +33,6 @@ Improving my backend and system design skills, and building projects I can deplo
 
 ## Find me
 
-[LinkedIn](https://www.linkedin.com/in/adham-harp-43bb6232b)
-[Kaggle](https://www.kaggle.com/adhamharp)
-
-[Certificates](https://drive.google.com/drive/folders/1aJtpq_AU3GCCMX9621kTkxoQukBJ0SI-?usp=sharing)
+- [LinkedIn](https://www.linkedin.com/in/adham-harp-43bb6232b)
+- [Kaggle](https://www.kaggle.com/adhamharp)
+- [Certificates](https://drive.google.com/drive/folders/1aJtpq_AU3GCCMX9621kTkxoQukBJ0SI-?usp=sharing)
