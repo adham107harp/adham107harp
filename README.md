@@ -1,4 +1,4 @@
-<a href="https://adham-harp.github.io/"><img src="https://adham107harp.github.io/assets/og.jpg" alt="Adham Harp's 3D portfolio: a step pyramid where every step is a layer of my stack" width="100%"></a>
+<a href="https://adham-harp.github.io/"><img src="https://adham-harp.github.io/assets/og.jpg" alt="Adham Harp's 3D portfolio: a step pyramid where every step is a layer of my stack" width="100%"></a>
 
 <h1 align="center">Hi, I'm Adham Harp 👋</h1>
 
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://adham107harp.github.io/"><img alt="3D portfolio" src="https://img.shields.io/badge/Portfolio-climb%20the%203D%20pyramid-e9b44c?style=flat-square"></a>
+  <a href="https://adham-harp.github.io/"><img alt="3D portfolio" src="https://img.shields.io/badge/Portfolio-climb%20the%203D%20pyramid-e9b44c?style=flat-square"></a>
   <a href="https://www.linkedin.com/in/adham-harp-43bb6232b"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Adham%20Harp-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="mailto:adhamharp994@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-adhamharp994%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="https://ieeexplore.ieee.org/document/11765840"><img alt="IEEE Xplore" src="https://img.shields.io/badge/IEEE%20Xplore-IoT%20Sentinel-00629B?style=flat-square&logo=ieee&logoColor=white"></a>
@@ -44,10 +44,10 @@
 
 | Project | What it is | My part | Links |
 |---|---|---|---|
-| **[SmartHabbit](https://github.com/adham107harp/SmartHabbit)** | Gamified habit tracker: XP, streaks, 50 badges, reward shop, friends, leaderboards, real-time chat | Most of the backend: Node.js + TypeScript + PostgreSQL, JWT, socket.io, rate limiting, magic-byte upload checks, Docker, jest integration tests | [Demo](https://adham107harp.github.io/smarthabbit/) · [Code](https://github.com/adham107harp/SmartHabbit) |
-| **[BU-LabTrack](https://github.com/adham107harp/BU-LabTrack)** | Lab management for Badya University with four roles: reservations, equipment sharing, maintenance | Mainly the backend API, plus a small part of the React frontend | [Demo](https://adham107harp.github.io/BU-LabTrack/) · [Code](https://github.com/adham107harp/BU-LabTrack) |
-| **[CAPCOM: Storm Watch](https://github.com/adham107harp/capcom-storm-watch)** | NASA Space Apps 2026 game for kids: guide Moon and Mars crews through real solar storms from NASA DONKI data | three.js game and a Vercel function that keeps the NASA API key server-side | [Play](https://capcom-storm-watch.vercel.app/) · [Code](https://github.com/adham107harp/capcom-storm-watch) |
-| **[3D Portfolio](https://github.com/adham107harp/adham107harp.github.io)** | A step pyramid you climb, one layer of my stack per step, guided by a mini me with 13 moods. Gamified: hidden artifacts, a balloon mini-game and an attack simulator | Everything: three.js PBR scene, procedural textures and sound, live GitHub data, a contact form that really delivers | [Visit](https://adham107harp.github.io/) · [Code](https://github.com/adham107harp/adham107harp.github.io) |
+| **[SmartHabbit](https://github.com/adham-harp/SmartHabbit)** | Gamified habit tracker: XP, streaks, 50 badges, reward shop, friends, leaderboards, real-time chat | Most of the backend: Node.js + TypeScript + PostgreSQL, JWT, socket.io, rate limiting, magic-byte upload checks, Docker, jest integration tests | [Demo](https://adham-harp.github.io/smarthabbit/) · [Code](https://github.com/adham-harp/SmartHabbit) |
+| **[BU-LabTrack](https://github.com/adham-harp/BU-LabTrack)** | Lab management for Badya University with four roles: reservations, equipment sharing, maintenance | Mainly the backend API, plus a small part of the React frontend | [Demo](https://adham-harp.github.io/BU-LabTrack/) · [Code](https://github.com/adham-harp/BU-LabTrack) |
+| **[CAPCOM: Storm Watch](https://github.com/adham-harp/capcom-storm-watch)** | NASA Space Apps 2026 game for kids: guide Moon and Mars crews through real solar storms from NASA DONKI data | three.js game and a Vercel function that keeps the NASA API key server-side | [Play](https://capcom-storm-watch.vercel.app/) · [Code](https://github.com/adham-harp/capcom-storm-watch) |
+| **[3D Portfolio](https://github.com/adham-harp/adham-harp.github.io)** | A step pyramid you climb, one layer of my stack per step, guided by a mini me with 13 moods. Gamified: hidden artifacts, a balloon mini-game and an attack simulator | Everything: three.js PBR scene, procedural textures and sound, live project demos inside the 3D monitors, a contact form that really delivers | [Visit](https://adham-harp.github.io/) · [Code](https://github.com/adham-harp/adham-harp.github.io) |
 
 ### 📄 Research
 
@@ -84,4 +84,4 @@ Device sensors go through a supervised XGBoost pipeline, network traffic through
 
 ### 📫 Find me
 
-[Portfolio](https://adham107harp.github.io/) · [LinkedIn](https://www.linkedin.com/in/adham-harp-43bb6232b) · [Email](mailto:adhamharp994@gmail.com) · [Kaggle](https://www.kaggle.com/adhamharp) · [Codeforces](https://codeforces.com/profile/a.mohammed22) · [Certificates](https://drive.google.com/drive/folders/1aJtpq_AU3GCCMX9621kTkxoQukBJ0SI-?usp=sharing)
+[Portfolio](https://adham-harp.github.io/) · [LinkedIn](https://www.linkedin.com/in/adham-harp-43bb6232b) · [Email](mailto:adhamharp994@gmail.com) · [Kaggle](https://www.kaggle.com/adhamharp) · [Codeforces](https://codeforces.com/profile/a.mohammed22) · [Certificates](https://drive.google.com/drive/folders/1aJtpq_AU3GCCMX9621kTkxoQukBJ0SI-?usp=sharing)
