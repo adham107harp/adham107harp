@@ -1,4 +1,4 @@
-<a href="https://adham107harp.github.io/"><img src="https://adham107harp.github.io/assets/og.jpg" alt="Adham Harp's 3D portfolio: a step pyramid where every step is a layer of my stack" width="100%"></a>
+<a href="https://adham-harp.github.io/"><img src="https://adham107harp.github.io/assets/og.jpg" alt="Adham Harp's 3D portfolio: a step pyramid where every step is a layer of my stack" width="100%"></a>
 
 <h1 align="center">Hi, I'm Adham Harp 👋</h1>
 
